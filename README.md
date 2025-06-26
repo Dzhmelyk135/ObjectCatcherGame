@@ -1,4 +1,4 @@
-A simple game created in Python where you control a green block with the arrow keys, and you have to catch the falling red block.
+ A simple game created in Python where you control a green block with the arrow keys, and you have to catch the falling red block.
  The speed of the falling block increases the more points you get.
  If you don't catch the object, it's game over.
  The current language support is: English, Italian, German, Spanish and Ukrainian.
